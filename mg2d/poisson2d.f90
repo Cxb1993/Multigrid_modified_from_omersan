@@ -1,4 +1,4 @@
-!     Modified from  https://github.com/omersan/5.04.Poisson2D
+!     Modified from  https://github.com/omersan/5.06.Multigrid2D
 !     V-cycle Multigrid method for solving 2D Poisson equation
 !     d2u/dx2 + d2u/dy2 = f(x,y)
 !     Drichlet b.c.
