@@ -1,1 +1,1 @@
-Slight changed to the original code
+Slight changes to the original code
