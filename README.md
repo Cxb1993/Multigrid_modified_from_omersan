@@ -1,3 +1,3 @@
 # Multigrid_modified_from_omarsan
-These are slightly modified version of works done by Dr. Omer San (see https://github.com/omersan/5.04.Poisson2D )
+These are slightly modified version of works done by Dr. Omer San (see https://github.com/omersan/5.06.Multigrid2D)
 Mainly for teaching...
