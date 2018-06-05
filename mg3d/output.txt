@@ -1,0 +1,4 @@
+ outer number of iteration =         6670
+ normalized workload       =    6670.0000000000000     
+ L2-norm =   4.1472733290267432E-008
+ Max-norm =   1.1449729697687872E-007
